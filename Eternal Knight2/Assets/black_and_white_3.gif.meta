@@ -472,12 +472,6 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-<<<<<<< HEAD
-<<<<<<< HEAD
-    nameFileIdTable: {}
-=======
-=======
->>>>>>> 3cd96f0323e7a627b0c03ae707bd2f4fa7552ec7
     nameFileIdTable:
       black_and_white_3_0: -6209728523182227622
       black_and_white_3_1: 2613625937072111728
@@ -493,10 +487,6 @@ TextureImporter:
       black_and_white_3_7: 8578571776966236683
       black_and_white_3_8: -8458107800215309308
       black_and_white_3_9: 4076595978256301788
-<<<<<<< HEAD
->>>>>>> 3cd96f0323e7a627b0c03ae707bd2f4fa7552ec7
-=======
->>>>>>> 3cd96f0323e7a627b0c03ae707bd2f4fa7552ec7
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
